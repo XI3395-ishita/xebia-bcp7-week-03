@@ -1,4 +1,4 @@
-package practice.operators;
+package practice.interface;
 import java.util.*;
 import java.io.*;
 
