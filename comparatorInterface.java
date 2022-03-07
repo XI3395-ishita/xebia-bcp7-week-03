@@ -1,4 +1,4 @@
-package practice.operators;
+package practice.interface;
 import java.util.*;
 import java.io.*;
 
@@ -36,7 +36,7 @@ class NameComparator implements Comparator<Student>{
  * @author Ishita.Singhal
  *
  */
-public class comparatorOperator {
+public class comparatorInterface {
 
 	/**
 	 * @param args
