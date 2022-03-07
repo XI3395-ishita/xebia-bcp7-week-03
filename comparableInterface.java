@@ -26,7 +26,7 @@ class Student implements Comparable<Student>{
  * @author Ishita.Singhal
  *
  */
-public class comparableOperator {
+public class comparableInterface {
 
 	/**
 	 * @param args
